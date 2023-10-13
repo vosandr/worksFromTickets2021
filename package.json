@@ -1,16 +1,13 @@
 {
-  "name": "workToDocx",
+  "name": "works-from-tickets-2021",
   "version": "1.0.0",
   "main": "app.ts",
   "license": "MIT",
-  "dependencies": {
-    "@types/node": "^20.8.2",
-    "@types/textract": "^2.4.3",
-    "textract": "^2.5.0",
-    "tsnd": "^1.1.0",
-    "typescipt": "^1.0.0"
-  },
   "scripts": {
     "start": "tsnd --quiet ./app.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
   }
 }
