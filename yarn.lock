@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"2spcjtoankicsv@^1.0.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/2spcjtoankicsv/-/2spcjtoankicsv-1.2.1.tgz#a69f05ad02c75e9fce639159120e73b8d7fec856"
-  integrity sha512-DDDszi+9EWCmlgoF/MOG0qAWikrgOkKEN0GJ6W6M4PpY78nNWwZY8F1j6Kn7mrKHpQFHVQ5e01yYSJ6qHoJgtA==
+"2spcjtoankicsv@^2.0.6":
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/2spcjtoankicsv/-/2spcjtoankicsv-2.0.9.tgz#0c0e1b75f45bdac9db9220bcbd575c5f4ada1e28"
+  integrity sha512-EXxY7kggpujr0CaBX4ihB0IXGKaHYVH0XbptQiDay4Cfp6p7quj9Vx3oPOacIgkQd62AHbzGo7FJLHezgrJCxg==
 
 "@esbuild/android-arm64@0.18.20":
   version "0.18.20"
