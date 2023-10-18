@@ -4,9 +4,10 @@
   "main": "app.ts",
   "license": "MIT",
   "scripts": {
-    "start": "tsnd --quiet ./app.ts"
+    "start": "tsx ./app.ts"
   },
   "devDependencies": {
+    "2spcjtoankicsv": "^1.0.1",
     "tsx": "^3.13.0",
     "typescript": "^5.2.2"
   }
